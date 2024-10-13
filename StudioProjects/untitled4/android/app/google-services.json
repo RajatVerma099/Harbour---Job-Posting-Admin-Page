@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "308935094536",
+    "project_id": "harbour-final",
+    "storage_bucket": "harbour-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308935094536:android:b7cdabe0bdf365add87cbd",
+        "android_client_info": {
+          "package_name": "com.XSol.harbour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308935094536-84ag5jk3r36pkch5r7bcbq56c1mpvr6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.XSol.harbour",
+            "certificate_hash": "73ab9cc13334b22bd0bc26aa596f4d783069f432"
+          }
+        },
+        {
+          "client_id": "308935094536-0o40dr13351mlu22ojmd30spiduaiip3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl302diXzcpep2og086Jb-5Sq-XayL0zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308935094536-0o40dr13351mlu22ojmd30spiduaiip3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308935094536-hnrp39gu1i9593q1jdcljbiecaiasuu2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.XSol.harbour.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
